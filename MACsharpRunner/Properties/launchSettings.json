@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MACsharpRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "true"
+    }
+  }
+}

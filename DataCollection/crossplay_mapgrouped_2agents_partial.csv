@@ -1,0 +1,25 @@
+Map; Models; Solved; Average Actions; SD(Actions); Average Runtime; SD(Runtime); Average Efficiency; SD(Efficiency)
+partial-divider_onionsalad; agm-6, mac;  0.00;  0.00;  0.00;  0.000;  0.000;  0.0000;  0.0000
+partial-divider_onionsalad; mac, agm-6;  0.00;  0.00;  0.00;  0.000;  0.000;  0.0000;  0.0000
+partial-divider_onionsalad; bd, mac;  0.00;  0.00;  0.00;  0.000;  0.000;  0.0000;  0.0000
+partial-divider_onionsalad; mac, bd;  0.00;  0.00;  0.00;  0.000;  0.000;  0.0000;  0.0000
+partial-divider_onionsalad; agm-6, bd;  1.00;  42.40;  1.85;  1740.271;  382.857;  0.0253;  0.0043
+partial-divider_onionsalad; bd, agm-6;  0.80;  37.25;  1.09;  1271.276;  64.759;  0.0293;  0.0007
+partial-divider_salad; agm-6, mac;  1.00;  32.00;  7.10;  6.614;  5.171;  9.5378;  8.0878
+partial-divider_salad; mac, agm-6;  1.00;  22.00;  0.63;  8.591;  1.906;  2.7646;  0.9211
+partial-divider_salad; bd, mac;  1.00;  33.40;  3.38;  681.183;  118.290;  0.0498;  0.0063
+partial-divider_salad; mac, bd;  1.00;  31.40;  2.50;  791.651;  66.773;  0.0398;  0.0034
+partial-divider_salad; agm-6, bd;  1.00;  27.60;  3.72;  522.424;  64.252;  0.0537;  0.0102
+partial-divider_salad; bd, agm-6;  1.00;  26.40;  7.81;  644.630;  437.658;  0.0478;  0.0102
+partial-divider_tl; agm-6, mac;  1.00;  39.40;  2.50;  4.326;  2.109;  12.4361;  7.5917
+partial-divider_tl; mac, agm-6;  0.60;  41.67;  8.06;  23.199;  15.525;  6.0135;  6.5290
+partial-divider_tl; bd, mac;  0.80;  39.00;  3.94;  823.319;  182.754;  0.0496;  0.0115
+partial-divider_tl; mac, bd;  0.80;  40.50;  2.87;  937.489;  239.201;  0.0450;  0.0074
+partial-divider_tl; agm-6, bd;  1.00;  39.00;  3.41;  724.710;  179.870;  0.0578;  0.0169
+partial-divider_tl; bd, agm-6;  1.00;  37.40;  3.77;  695.954;  103.301;  0.0547;  0.0081
+partial-divider_tomato; agm-6, mac;  1.00;  23.00;  0.00;  0.788;  0.027;  29.2255;  0.9923
+partial-divider_tomato; mac, agm-6;  1.00;  20.80;  1.60;  0.792;  0.146;  26.8020;  3.1261
+partial-divider_tomato; bd, mac;  1.00;  23.40;  0.49;  255.454;  52.977;  0.0967;  0.0244
+partial-divider_tomato; mac, bd;  1.00;  20.40;  1.02;  182.850;  51.311;  0.1184;  0.0247
+partial-divider_tomato; agm-6, bd;  1.00;  21.20;  1.17;  149.733;  52.160;  0.1552;  0.0397
+partial-divider_tomato; bd, agm-6;  1.00;  21.00;  2.10;  113.432;  54.304;  0.2102;  0.0545

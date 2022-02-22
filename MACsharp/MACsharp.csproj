@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+		<GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Remove="GameObjectProperty\**" />
+		<EmbeddedResource Remove="GameObjectProperty\**" />
+		<None Remove="GameObjectProperty\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Include="..\gym-cooking-fork\gym_cooking\utils\levels\*.txt">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="utils\levels\" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\full-divider_cucumbersalad.txt" Link="utils\levels\full-divider_cucumbersalad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\full-divider_lettuce.txt" Link="utils\levels\full-divider_lettuce.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\full-divider_onionsalad.txt" Link="utils\levels\full-divider_onionsalad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\full-divider_salad.txt" Link="utils\levels\full-divider_salad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\full-divider_tl.txt" Link="utils\levels\full-divider_tl.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\full-divider_tomato.txt" Link="utils\levels\full-divider_tomato.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\open-divider_cucumbersalad.txt" Link="utils\levels\open-divider_cucumbersalad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\open-divider_onionsalad.txt" Link="utils\levels\open-divider_onionsalad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\open-divider_salad.txt" Link="utils\levels\open-divider_salad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\open-divider_tl.txt" Link="utils\levels\open-divider_tl.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\open-divider_tomato.txt" Link="utils\levels\open-divider_tomato.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\partial-divider_cucumbersalad.txt" Link="utils\levels\partial-divider_cucumbersalad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\partial-divider_onionsalad.txt" Link="utils\levels\partial-divider_onionsalad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\partial-divider_salad.txt" Link="utils\levels\partial-divider_salad.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\partial-divider_tl.txt" Link="utils\levels\partial-divider_tl.txt" />
+		<Content Update="..\gym-cooking-fork\gym_cooking\utils\levels\partial-divider_tomato.txt" Link="utils\levels\partial-divider_tomato.txt" />
+	</ItemGroup>
+
+</Project>

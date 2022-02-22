@@ -1,0 +1,82 @@
+MapName                    :
+Models                     : agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 31.85
+StandardDeviationActions   : 8.955119578579993
+AverageRuntime             : 30.70898591
+StandardDeviationRuntime   : 95.71169194011
+AverageEfficiency          : 16.91208104373285
+StandardDeviationEfficiency: 13.11074420709357
+
+
+MapName                    :
+Models                     : mac
+NumberOfAgents             : 2
+SolveRate                  : 0.6666666666666666
+AverageActions             : 28.8
+StandardDeviationActions   : 8.000624975587844
+AverageRuntime             : 6.217740292499999
+StandardDeviationRuntime   : 17.33427622132691
+AverageEfficiency          : 34.20261455837509
+StandardDeviationEfficiency: 25.302044609848853
+
+
+MapName                    :
+Models                     : bd
+NumberOfAgents             : 2
+SolveRate                  : 0.8166666666666667
+AverageActions             : 33.55102040816327
+StandardDeviationActions   : 10.022548505774562
+AverageRuntime             : 1513.8377061755104
+StandardDeviationRuntime   : 1498.2715004012493
+AverageEfficiency          : 0.050941452583533664
+StandardDeviationEfficiency: 0.05881704110494069
+
+
+MapName                    :
+Models                     : agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 29.816666666666666
+StandardDeviationActions   : 7.577360285012775
+AverageRuntime             : 823.27190713
+StandardDeviationRuntime   : 1599.3386591759322
+AverageEfficiency          : 0.28213198832987924
+StandardDeviationEfficiency: 0.3141071830601733
+
+
+MapName                    :
+Models                     : agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 30.35
+StandardDeviationActions   : 8.477076933314533
+AverageRuntime             : 419.3747552316666
+StandardDeviationRuntime   : 655.8319542415135
+AverageEfficiency          : 0.3995345761089476
+StandardDeviationEfficiency: 0.5165858921317101
+
+
+MapName                    :
+Models                     : mac
+NumberOfAgents             : 3
+SolveRate                  : 0.36666666666666664
+AverageActions             : 24
+StandardDeviationActions   : 4.572645941803379
+AverageRuntime             : 2179.4261147409093
+StandardDeviationRuntime   : 3104.1801353906003
+AverageEfficiency          : 2.7577040002817785
+StandardDeviationEfficiency: 4.662889897643024
+
+
+MapName                    :
+Models                     : bd
+NumberOfAgents             : 3
+SolveRate                  : 0.26666666666666666
+AverageActions             : 23.4375
+StandardDeviationActions   : 5.544916027317276
+AverageRuntime             : 4975.844241612501
+StandardDeviationRuntime   : 2258.905621372078
+AverageEfficiency          : 0.005165186059791822
+StandardDeviationEfficiency: 0.0012086265074888508

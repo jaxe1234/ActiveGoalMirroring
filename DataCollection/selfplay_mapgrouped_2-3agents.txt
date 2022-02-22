@@ -1,0 +1,1007 @@
+MapName                    : full-divider_onionsalad
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : full-divider_salad
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 24.8
+StandardDeviationActions   : 0.39999999999999997
+AverageRuntime             : 0.5265642000000001
+StandardDeviationRuntime   : 0.03375466025360061
+AverageEfficiency          : 47.31006018391794
+StandardDeviationEfficiency: 3.4018397761477437
+
+
+MapName                    : full-divider_tl
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 0.8
+AverageActions             : 45.5
+StandardDeviationActions   : 11.84271928232701
+AverageRuntime             : 0.984642125
+StandardDeviationRuntime   : 0.2758008912957622
+AverageEfficiency          : 47.15021139685047
+StandardDeviationEfficiency: 6.903797705071027
+
+
+MapName                    : full-divider_tomato
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 23
+StandardDeviationActions   : 0
+AverageRuntime             : 0.2909546
+StandardDeviationRuntime   : 0.004764299537182745
+AverageEfficiency          : 79.07139693820967
+StandardDeviationEfficiency: 1.298584662029349
+
+
+MapName                    : open-divider_onionsalad
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : open-divider_salad
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 31.8
+StandardDeviationActions   : 2.315167380558045
+AverageRuntime             : 4.37386786
+StandardDeviationRuntime   : 1.9906064419424394
+AverageEfficiency          : 9.702969448526053
+StandardDeviationEfficiency: 6.0562245225036735
+
+
+MapName                    : open-divider_tl
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 32.6
+StandardDeviationActions   : 1.624807680927192
+AverageRuntime             : 7.400769360000001
+StandardDeviationRuntime   : 3.8524170372543183
+AverageEfficiency          : 5.831694917110796
+StandardDeviationEfficiency: 2.976417149443918
+
+
+MapName                    : open-divider_tomato
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 23
+StandardDeviationActions   : 0
+AverageRuntime             : 0.8131504799999998
+StandardDeviationRuntime   : 0.030324917890632463
+AverageEfficiency          : 28.324888746315054
+StandardDeviationEfficiency: 1.0693484540810154
+
+
+MapName                    : partial-divider_onionsalad
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_salad
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 27.8
+StandardDeviationActions   : 1.4696938456699067
+AverageRuntime             : 34.9246476
+StandardDeviationRuntime   : 37.39563148625981
+AverageEfficiency          : 4.361638935044838
+StandardDeviationEfficiency: 3.634955784145268
+
+
+MapName                    : partial-divider_tl
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 0.2
+AverageActions             : 40
+StandardDeviationActions   : 0
+AverageRuntime             : 0.9430148999999999
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 42.41714526461884
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_tomato
+Models                     : mac, mac
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 23
+StandardDeviationActions   : 0
+AverageRuntime             : 0.43565156
+StandardDeviationRuntime   : 0.008528251010517917
+AverageEfficiency          : 52.8146691274723
+StandardDeviationEfficiency: 1.0310974966010003
+
+
+MapName                    : full-divider_onionsalad
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 41.2
+StandardDeviationActions   : 4.1182520563948
+AverageRuntime             : 1959.3966179200002
+StandardDeviationRuntime   : 370.60255306450114
+AverageEfficiency          : 0.021611555505491258
+StandardDeviationEfficiency: 0.003726113122646814
+
+
+MapName                    : full-divider_salad
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 32.8
+StandardDeviationActions   : 4.445222154178573
+AverageRuntime             : 763.1649852200001
+StandardDeviationRuntime   : 232.2982715561772
+AverageEfficiency          : 0.04613029772466849
+StandardDeviationEfficiency: 0.011313212087715177
+
+
+MapName                    : full-divider_tl
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 41.4
+StandardDeviationActions   : 2.4166091947189146
+AverageRuntime             : 888.21363096
+StandardDeviationRuntime   : 243.5503925426761
+AverageEfficiency          : 0.04933169695752234
+StandardDeviationEfficiency: 0.010961295297377325
+
+
+MapName                    : full-divider_tomato
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 20.8
+StandardDeviationActions   : 1.1661903789690602
+AverageRuntime             : 145.19462177999998
+StandardDeviationRuntime   : 104.76150554085817
+AverageEfficiency          : 0.19661679848914082
+StandardDeviationEfficiency: 0.08042870921677879
+
+
+MapName                    : open-divider_onionsalad
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 0.4
+AverageActions             : 53
+StandardDeviationActions   : 0
+AverageRuntime             : 7160.3558014499995
+StandardDeviationRuntime   : 512.5317117500003
+AverageEfficiency          : 0.007439986070915125
+StandardDeviationEfficiency: 0.0005325473903894686
+
+
+MapName                    : open-divider_salad
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 0.8
+AverageActions             : 34.5
+StandardDeviationActions   : 9.5524865872714
+AverageRuntime             : 3345.1537591
+StandardDeviationRuntime   : 353.30195313549456
+AverageEfficiency          : 0.010239467467327857
+StandardDeviationEfficiency: 0.0020850161182681326
+
+
+MapName                    : open-divider_tl
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 36.2
+StandardDeviationActions   : 5.979966555090421
+AverageRuntime             : 1574.7940528599997
+StandardDeviationRuntime   : 180.96414205275588
+AverageEfficiency          : 0.023113973560430053
+StandardDeviationEfficiency: 0.003335938113407651
+
+
+MapName                    : open-divider_tomato
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 24.6
+StandardDeviationActions   : 1.8547236990991407
+AverageRuntime             : 610.03160102
+StandardDeviationRuntime   : 344.16910419621667
+AverageEfficiency          : 0.05134951360322706
+StandardDeviationEfficiency: 0.02058508598465283
+
+
+MapName                    : partial-divider_onionsalad
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_salad
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 0.6
+AverageActions             : 32.333333333333336
+StandardDeviationActions   : 4.642796092394707
+AverageRuntime             : 1826.870226633333
+StandardDeviationRuntime   : 213.48755900658898
+AverageEfficiency          : 0.01776492593935868
+StandardDeviationEfficiency: 0.002278091226080151
+
+
+MapName                    : partial-divider_tl
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 43.4
+StandardDeviationActions   : 3.97994974842648
+AverageRuntime             : 1935.3577651399999
+StandardDeviationRuntime   : 642.6142596088065
+AverageEfficiency          : 0.024461968015958298
+StandardDeviationEfficiency: 0.006990524872146145
+
+
+MapName                    : partial-divider_tomato
+Models                     : bd, bd
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 20.2
+StandardDeviationActions   : 0.9797958971132713
+AverageRuntime             : 323.06878178
+StandardDeviationRuntime   : 57.708609149685365
+AverageEfficiency          : 0.06478390749634784
+StandardDeviationEfficiency: 0.01280728823525298
+
+
+MapName                    : full-divider_onionsalad
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 37.6
+StandardDeviationActions   : 3.1999999999999997
+AverageRuntime             : 99.65101008
+StandardDeviationRuntime   : 90.89935565362569
+AverageEfficiency          : 1.2838303899517762
+StandardDeviationEfficiency: 1.2709683110351169
+
+
+MapName                    : full-divider_salad
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 23
+StandardDeviationActions   : 1.6733200530681511
+AverageRuntime             : 1.0102992
+StandardDeviationRuntime   : 0.10126560718676397
+AverageEfficiency          : 22.872416487357473
+StandardDeviationEfficiency: 1.428542904617483
+
+
+MapName                    : full-divider_tl
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 38.8
+StandardDeviationActions   : 2.4
+AverageRuntime             : 1.57291244
+StandardDeviationRuntime   : 0.09449548965267279
+AverageEfficiency          : 24.67479608795925
+StandardDeviationEfficiency: 0.6598066149990162
+
+
+MapName                    : full-divider_tomato
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 22
+StandardDeviationActions   : 2.280350850198276
+AverageRuntime             : 0.6819617199999999
+StandardDeviationRuntime   : 0.04669633006125427
+AverageEfficiency          : 32.55446064501125
+StandardDeviationEfficiency: 5.334263916500641
+
+
+MapName                    : open-divider_onionsalad
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 48.8
+StandardDeviationActions   : 6.794115100585212
+AverageRuntime             : 11.5699709
+StandardDeviationRuntime   : 5.263340552106862
+AverageEfficiency          : 4.906707876386039
+StandardDeviationEfficiency: 1.6179577507380247
+
+
+MapName                    : open-divider_salad
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 30.2
+StandardDeviationActions   : 3.54400902933387
+AverageRuntime             : 2.49036462
+StandardDeviationRuntime   : 1.0871387580802194
+AverageEfficiency          : 14.531714336951865
+StandardDeviationEfficiency: 5.6125368014294335
+
+
+MapName                    : open-divider_tl
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 34.2
+StandardDeviationActions   : 5.418486873657626
+AverageRuntime             : 1.7392863200000002
+StandardDeviationRuntime   : 0.5794900012650689
+AverageEfficiency          : 21.1025297541483
+StandardDeviationEfficiency: 5.032125233679047
+
+
+MapName                    : open-divider_tomato
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 24.8
+StandardDeviationActions   : 0.7483314773547882
+AverageRuntime             : 0.5530655
+StandardDeviationRuntime   : 0.03759150755833029
+AverageEfficiency          : 45.08567189484049
+StandardDeviationEfficiency: 3.8056102929469557
+
+
+MapName                    : partial-divider_onionsalad
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 37.4
+StandardDeviationActions   : 2.8705400188814645
+AverageRuntime             : 240.84053382000002
+StandardDeviationRuntime   : 211.76397523718526
+AverageEfficiency          : 0.5505245716621241
+StandardDeviationEfficiency: 0.5266221677344848
+
+
+MapName                    : partial-divider_salad
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 26.4
+StandardDeviationActions   : 1.624807680927192
+AverageRuntime             : 3.3269683
+StandardDeviationRuntime   : 0.25588746611796365
+AverageEfficiency          : 7.974348780414887
+StandardDeviationEfficiency: 0.6787272591002957
+
+
+MapName                    : partial-divider_tl
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 38.2
+StandardDeviationActions   : 3.249615361854384
+AverageRuntime             : 3.77282218
+StandardDeviationRuntime   : 0.5110455464245802
+AverageEfficiency          : 10.193601520707753
+StandardDeviationEfficiency: 0.6515524134711755
+
+
+MapName                    : partial-divider_tomato
+Models                     : agm-6, agm-6
+NumberOfAgents             : 2
+SolveRate                  : 1
+AverageActions             : 20.8
+StandardDeviationActions   : 1.8330302779823362
+AverageRuntime             : 1.29863584
+StandardDeviationRuntime   : 0.40085017216755486
+AverageEfficiency          : 17.21437017940304
+StandardDeviationEfficiency: 4.054253517728153
+
+
+MapName                    : full-divider_onionsalad
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : full-divider_salad
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0.2
+AverageActions             : 29
+StandardDeviationActions   : 0
+AverageRuntime             : 144.3395152
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0.20091518223417174
+StandardDeviationEfficiency: 0
+
+
+MapName                    : full-divider_tl
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : full-divider_tomato
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 18
+StandardDeviationActions   : 0
+AverageRuntime             : 1.6146781999999997
+StandardDeviationRuntime   : 0.15372770369941777
+AverageEfficiency          : 11.26616575554797
+StandardDeviationEfficiency: 1.2444650543476241
+
+
+MapName                    : open-divider_onionsalad
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : open-divider_salad
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0.4
+AverageActions             : 28
+StandardDeviationActions   : 3
+AverageRuntime             : 6620.2949891
+StandardDeviationRuntime   : 1321.3974090000002
+AverageEfficiency          : 0.004310706293904431
+StandardDeviationEfficiency: 0.00040725619208273984
+
+
+MapName                    : open-divider_tl
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0.8
+AverageActions             : 30.75
+StandardDeviationActions   : 1.7853571071357126
+AverageRuntime             : 7014.473616775
+StandardDeviationRuntime   : 2253.5516587021884
+AverageEfficiency          : 0.005223685305114105
+StandardDeviationEfficiency: 0.0026891461974176984
+
+
+MapName                    : open-divider_tomato
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 23
+StandardDeviationActions   : 0
+AverageRuntime             : 1270.66135934
+StandardDeviationRuntime   : 152.53352580988968
+AverageEfficiency          : 0.01838400618161646
+StandardDeviationEfficiency: 0.0023728358304109473
+
+
+MapName                    : partial-divider_onionsalad
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_salad
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_tl
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_tomato
+Models                     : mac, mac, mac
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 23
+StandardDeviationActions   : 0
+AverageRuntime             : 28.63407522
+StandardDeviationRuntime   : 0.15261059226514267
+AverageEfficiency          : 0.8032615723017515
+StandardDeviationEfficiency: 0.004274173746329468
+
+
+MapName                    : full-divider_onionsalad
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : full-divider_salad
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0.2
+AverageActions             : 26
+StandardDeviationActions   : 0
+AverageRuntime             : 10416.1604348
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0.0024961213071502796
+StandardDeviationEfficiency: 0
+
+
+MapName                    : full-divider_tl
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : full-divider_tomato
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 19
+StandardDeviationActions   : 1.8973665961010275
+AverageRuntime             : 3261.24480788
+StandardDeviationRuntime   : 482.68269804213713
+AverageEfficiency          : 0.005901459519677061
+StandardDeviationEfficiency: 0.0007111386932085792
+
+
+MapName                    : open-divider_onionsalad
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : open-divider_salad
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : open-divider_tl
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : open-divider_tomato
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 29.6
+StandardDeviationActions   : 4.8
+AverageRuntime             : 6328.192312000001
+StandardDeviationRuntime   : 2089.038248803272
+AverageEfficiency          : 0.005065819529534198
+StandardDeviationEfficiency: 0.001313579492916841
+
+
+MapName                    : partial-divider_onionsalad
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_salad
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_tl
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 0
+AverageActions             : 0
+StandardDeviationActions   : 0
+AverageRuntime             : 0
+StandardDeviationRuntime   : 0
+AverageEfficiency          : 0
+StandardDeviationEfficiency: 0
+
+
+MapName                    : partial-divider_tomato
+Models                     : bd, bd, bd
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 21.2
+StandardDeviationActions   : 2.7856776554368237
+AverageRuntime             : 4250.032366320001
+StandardDeviationRuntime   : 718.6959661611178
+AverageEfficiency          : 0.005062092080692515
+StandardDeviationEfficiency: 0.0006752024668148944
+
+
+MapName                    : full-divider_onionsalad
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 35.6
+StandardDeviationActions   : 6.681317235396026
+AverageRuntime             : 1529.8733138399998
+StandardDeviationRuntime   : 617.3510026298362
+AverageEfficiency          : 0.02764928959677636
+StandardDeviationEfficiency: 0.012472021080411927
+
+
+MapName                    : full-divider_salad
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 22
+StandardDeviationActions   : 2
+AverageRuntime             : 96.92492352000001
+StandardDeviationRuntime   : 44.294726437957905
+AverageEfficiency          : 0.2606193272375352
+StandardDeviationEfficiency: 0.07482972011589327
+
+
+MapName                    : full-divider_tl
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 37.8
+StandardDeviationActions   : 2.4819347291981715
+AverageRuntime             : 207.97040378000003
+StandardDeviationRuntime   : 111.28997667251409
+AverageEfficiency          : 0.23570316968963487
+StandardDeviationEfficiency: 0.11153625085702272
+
+
+MapName                    : full-divider_tomato
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 18.4
+StandardDeviationActions   : 1.3564659966250538
+AverageRuntime             : 23.343469419999998
+StandardDeviationRuntime   : 5.0000258766885635
+AverageEfficiency          : 0.8215842245214893
+StandardDeviationEfficiency: 0.16432369087529425
+
+
+MapName                    : open-divider_onionsalad
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 38.4
+StandardDeviationActions   : 3.1368774282716245
+AverageRuntime             : 852.3591127799998
+StandardDeviationRuntime   : 635.7502341398946
+AverageEfficiency          : 0.10070878670691294
+StandardDeviationEfficiency: 0.100539621709709
+
+
+MapName                    : open-divider_salad
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 30.6
+StandardDeviationActions   : 4.673328578219168
+AverageRuntime             : 244.344992
+StandardDeviationRuntime   : 96.11886888272963
+AverageEfficiency          : 0.1466093351754766
+StandardDeviationEfficiency: 0.05790049688868298
+
+
+MapName                    : open-divider_tl
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 37.4
+StandardDeviationActions   : 3.6110940170535577
+AverageRuntime             : 218.4105126
+StandardDeviationRuntime   : 98.66667011434014
+AverageEfficiency          : 0.2154005236488871
+StandardDeviationEfficiency: 0.10083653806147742
+
+
+MapName                    : open-divider_tomato
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 25.2
+StandardDeviationActions   : 1.6
+AverageRuntime             : 17.5625014
+StandardDeviationRuntime   : 11.729528888362593
+AverageEfficiency          : 1.8229435289018308
+StandardDeviationEfficiency: 0.5949105561455695
+
+
+MapName                    : partial-divider_onionsalad
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 35.2
+StandardDeviationActions   : 3.6000000000000005
+AverageRuntime             : 1583.8084753000003
+StandardDeviationRuntime   : 830.305629954606
+AverageEfficiency          : 0.027306868541820052
+StandardDeviationEfficiency: 0.010733502873831942
+
+
+MapName                    : partial-divider_salad
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 22
+StandardDeviationActions   : 2.8284271247461903
+AverageRuntime             : 91.66328512
+StandardDeviationRuntime   : 16.33427129397095
+AverageEfficiency          : 0.24309444878358816
+StandardDeviationEfficiency: 0.027760228945768274
+
+
+MapName                    : partial-divider_tl
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 40.2
+StandardDeviationActions   : 4.995998398718719
+AverageRuntime             : 128.94562174
+StandardDeviationRuntime   : 24.856985383355997
+AverageEfficiency          : 0.31977788969490734
+StandardDeviationEfficiency: 0.05018375053097519
+
+
+MapName                    : partial-divider_tomato
+Models                     : agm-6, agm-6, agm-6
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 21.4
+StandardDeviationActions   : 2.3323807579381204
+AverageRuntime             : 37.29045128
+StandardDeviationRuntime   : 2.7522980473831806
+AverageEfficiency          : 0.5730175208085111
+StandardDeviationEfficiency: 0.029479414027143786
+
+
+MapName                    : full-divider_onionsalad
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 33
+StandardDeviationActions   : 3.847076812334269
+AverageRuntime             : 932.5011537999999
+StandardDeviationRuntime   : 808.2057118062864
+AverageEfficiency          : 0.0626338610222762
+StandardDeviationEfficiency: 0.041240156282656766
+
+
+MapName                    : full-divider_salad
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 27
+StandardDeviationActions   : 1.5491933384829668
+AverageRuntime             : 72.56814562000001
+StandardDeviationRuntime   : 16.341427250013133
+AverageEfficiency          : 0.39690519374440764
+StandardDeviationEfficiency: 0.11636729770809807
+
+
+MapName                    : full-divider_tl
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 37.4
+StandardDeviationActions   : 4.223742416388575
+AverageRuntime             : 231.7952208
+StandardDeviationRuntime   : 210.37574752914452
+AverageEfficiency          : 0.2793851825499447
+StandardDeviationEfficiency: 0.14818545946194814
+
+
+MapName                    : full-divider_tomato
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 18.6
+StandardDeviationActions   : 1.019803902718557
+AverageRuntime             : 23.86336786
+StandardDeviationRuntime   : 3.761590890532373
+AverageEfficiency          : 0.7917803043408957
+StandardDeviationEfficiency: 0.07871620445690342
+
+
+MapName                    : open-divider_onionsalad
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 34
+StandardDeviationActions   : 2.8284271247461903
+AverageRuntime             : 1561.0766388
+StandardDeviationRuntime   : 2087.172665472555
+AverageEfficiency          : 0.06776990658706106
+StandardDeviationEfficiency: 0.05265509270952757
+
+
+MapName                    : open-divider_salad
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 31.8
+StandardDeviationActions   : 1.7204650534085253
+AverageRuntime             : 1680.3181123
+StandardDeviationRuntime   : 1675.3138873755283
+AverageEfficiency          : 0.07290023702754736
+StandardDeviationEfficiency: 0.07628834497334021
+
+
+MapName                    : open-divider_tl
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 41
+StandardDeviationActions   : 4.560701700396552
+AverageRuntime             : 1721.76825584
+StandardDeviationRuntime   : 1895.988295374216
+AverageEfficiency          : 0.10356690597683968
+StandardDeviationEfficiency: 0.10428264693808617
+
+
+MapName                    : open-divider_tomato
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 26
+StandardDeviationActions   : 1.8973665961010275
+AverageRuntime             : 30.419215780000002
+StandardDeviationRuntime   : 10.440606462371468
+AverageEfficiency          : 0.9639250723326771
+StandardDeviationEfficiency: 0.3208248558742294
+
+
+MapName                    : partial-divider_onionsalad
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 30.2
+StandardDeviationActions   : 1.4696938456699067
+AverageRuntime             : 3168.3946819800003
+StandardDeviationRuntime   : 2844.6170836264437
+AverageEfficiency          : 0.018645315193845904
+StandardDeviationEfficiency: 0.01248654758001649
+
+
+MapName                    : partial-divider_salad
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 22
+StandardDeviationActions   : 1.7888543819998317
+AverageRuntime             : 165.6055375
+StandardDeviationRuntime   : 35.40397893715318
+AverageEfficiency          : 0.13794486556458357
+StandardDeviationEfficiency: 0.02482751999320915
+
+
+MapName                    : partial-divider_tl
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 37.4
+StandardDeviationActions   : 4.586937976471886
+AverageRuntime             : 227.18847464
+StandardDeviationRuntime   : 47.81993409489518
+AverageEfficiency          : 0.17293913515932105
+StandardDeviationEfficiency: 0.04452461712389113
+
+
+MapName                    : partial-divider_tomato
+Models                     : agm-1, agm-1, agm-1
+NumberOfAgents             : 3
+SolveRate                  : 1
+AverageActions             : 19.4
+StandardDeviationActions   : 1.2
+AverageRuntime             : 63.764080639999996
+StandardDeviationRuntime   : 12.891634502913245
+AverageEfficiency          : 0.3171878804591505
+StandardDeviationEfficiency: 0.06698632793739893
+

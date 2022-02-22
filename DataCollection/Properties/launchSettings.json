@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataCollection": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\..\\..\\..\\benchmarks_done.csv\""
+    }
+  }
+}

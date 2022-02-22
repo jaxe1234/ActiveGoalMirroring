@@ -1,0 +1,119 @@
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>c4fb4507-7a0b-46af-9552-85de4282b217</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <StartupFile>main.py</StartupFile>
+    <SearchPath>
+    </SearchPath>
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <Name>gym_cooking</Name>
+    <RootNamespace>gym_cooking</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
+    <LaunchProvider>Web launcher</LaunchProvider>
+    <EnableNativeCodeDebugging>True</EnableNativeCodeDebugging>
+    <InterpreterArguments>-i</InterpreterArguments>
+    <InterpreterId>Global|PythonCore|3.7</InterpreterId>
+    <CommandLineArguments>--num-agents 2 --level full-divider_onionsalad --model1 prap --model2 prap --record --seed 0</CommandLineArguments>
+    <WebBrowserUrl>
+    </WebBrowserUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>true</DebugSymbols>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="delegation_planner\bayesian_delegator.py" />
+    <Compile Include="delegation_planner\delegator.py" />
+    <Compile Include="delegation_planner\utils.py" />
+    <Compile Include="envs\overcooked_environment.py" />
+    <Compile Include="envs\__init__.py" />
+    <Compile Include="main.py" />
+    <Compile Include="misc\game\game.py" />
+    <Compile Include="misc\game\gameimage.py" />
+    <Compile Include="misc\game\gameplay.py" />
+    <Compile Include="misc\game\utils.py" />
+    <Compile Include="misc\metrics\make_graphs.py" />
+    <Compile Include="misc\metrics\make_heatmap.py" />
+    <Compile Include="misc\metrics\metrics_bag.py" />
+    <Compile Include="navigation_planner\planners\e2e_brtdp.py" />
+    <Compile Include="navigation_planner\utils.py" />
+    <Compile Include="recipe_planner\recipe.py" />
+    <Compile Include="recipe_planner\stripsworld.py" />
+    <Compile Include="recipe_planner\utils.py" />
+    <Compile Include="recipe_planner\__init__.py" />
+    <Compile Include="utils\agent.py" />
+    <Compile Include="utils\core.py" />
+    <Compile Include="utils\interact.py" />
+    <Compile Include="utils\utils.py" />
+    <Compile Include="utils\world.py" />
+    <Compile Include="__init__.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="delegation_planner\" />
+    <Folder Include="envs\" />
+    <Folder Include="misc\" />
+    <Folder Include="misc\game\" />
+    <Folder Include="misc\game\graphics\" />
+    <Folder Include="misc\metrics\" />
+    <Folder Include="navigation_planner\" />
+    <Folder Include="navigation_planner\planners\" />
+    <Folder Include="recipe_planner\" />
+    <Folder Include="utils\" />
+    <Folder Include="utils\levels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="misc\game\graphics\agent-blue.png" />
+    <Content Include="misc\game\graphics\agent-green.png" />
+    <Content Include="misc\game\graphics\agent-magenta.png" />
+    <Content Include="misc\game\graphics\agent-yellow.png" />
+    <Content Include="misc\game\graphics\ChoppedLettuce-ChoppedOnion-ChoppedTomato.png" />
+    <Content Include="misc\game\graphics\ChoppedLettuce-ChoppedOnion.png" />
+    <Content Include="misc\game\graphics\ChoppedLettuce-ChoppedTomato.png" />
+    <Content Include="misc\game\graphics\ChoppedLettuce.png" />
+    <Content Include="misc\game\graphics\ChoppedOnion-ChoppedTomato.png" />
+    <Content Include="misc\game\graphics\ChoppedOnion.png" />
+    <Content Include="misc\game\graphics\ChoppedTomato.png" />
+    <Content Include="misc\game\graphics\cutboard.png" />
+    <Content Include="misc\game\graphics\delivery.png" />
+    <Content Include="misc\game\graphics\FreshLettuce.png" />
+    <Content Include="misc\game\graphics\FreshOnion.png" />
+    <Content Include="misc\game\graphics\FreshTomato.png" />
+    <Content Include="misc\game\graphics\plate.png" />
+    <Content Include="utils\levels\full-divider_salad.txt" />
+    <Content Include="utils\levels\full-divider_tl.txt" />
+    <Content Include="utils\levels\full-divider_tomato.txt" />
+    <Content Include="utils\levels\open-divider_salad.txt" />
+    <Content Include="utils\levels\open-divider_tl.txt" />
+    <Content Include="utils\levels\open-divider_tomato.txt" />
+    <Content Include="utils\levels\partial-divider_salad.txt" />
+    <Content Include="utils\levels\partial-divider_tl.txt" />
+    <Content Include="utils\levels\partial-divider_tomato.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\MACsharp\MACsharp.csproj">
+      <Name>MACsharp</Name>
+      <Project>{0c05152f-593b-4a75-9f38-f93ab262975f}</Project>
+      <Private>True</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <InterpreterReference Include="Global|PythonCore|3.7" />
+    <InterpreterReference Include="Global|PythonCore|3.7-32" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
+  <!-- Uncomment the CoreCompile target to enable the Build command in
+       Visual Studio and specify your pre- and post-build commands in
+       the BeforeBuild and AfterBuild targets below. -->
+  <!--<Target Name="CoreCompile" />-->
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+</Project>
